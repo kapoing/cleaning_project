@@ -9,5 +9,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The step performed by run_analysis are as follows:
 * Read features and activities labels into data frames
 * First for "test" and then from "train":
-..* a
-..* b
+  * a
+  * b
+  .*c
