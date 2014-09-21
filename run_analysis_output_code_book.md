@@ -1,16 +1,16 @@
 # Run Analysis Output Code Book
 ================
 ##Subject
-Identifier of the individual to which the record refers to 
+Identifier of the individual to which the record refers to. Can be 1 to 30
 
 ##activity
 Activity the subject was doing when the recording took place. Can be one of:
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS
-SITTING
-STANDING
-LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 ##Numerical values
 For each of the following list there are 6 variables: one for each axis (X,Y,Z), and a value for the mean and the standard deviation. 
